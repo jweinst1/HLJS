@@ -1,0 +1,29 @@
+{
+  "name": "hljs",
+  "version": "1.0.0",
+  "description": "A hyper-lisp language for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin":{"HLJS": "index.js"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jweinst1/HLJS.git"
+  },
+  "keywords": [
+    "lisp",
+    "scheme",
+    "javascript",
+    "js",
+    "lispy",
+    "parenthesis"
+  ],
+  "author": "Joshua Weinstein <jweinst1@berkeley.edu> (https://github.com/jweinst1)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jweinst1/HLJS/issues"
+  },
+  "homepage": "https://github.com/jweinst1/HLJS#readme"
+}

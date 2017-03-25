@@ -5,3 +5,14 @@ It allows you to write javascript the exact same way you normally would, except 
 
 ##Installation
 
+To install, run the following shell command:
+
+`$ npm install -g hljs`
+
+To transcompile a `.hljs` file, use the following command
+
+`$ HLJS yourfilename.hljs`
+
+##Guide
+
+###Variables and assignments
