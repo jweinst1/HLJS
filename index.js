@@ -42,3 +42,5 @@ function convertFileName(string){
     return string.match(/(.+)\.hljs/)[1] + ".js";
 }
 
+module.exports = cmp;
+
