@@ -7,7 +7,7 @@ It allows you to write javascript the exact same way you normally would, except 
 
 To install, run the following shell command:
 
-`$ npm install -g hljs`
+`$ npm install -g hl-js`
 
 To transcompile a `.hljs` file, use the following command
 
