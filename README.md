@@ -53,6 +53,6 @@ HLJS also has all the logical operators and conditionals of javascript
 
 ```
 (=== 7 true)
-
+(== 0 0 0)
 ```
 
